@@ -1,0 +1,1 @@
+SELECT * FROM inventory_profit_analysis;SELECT * FROM inventory_profit_analysis;
